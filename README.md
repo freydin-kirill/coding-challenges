@@ -1,2 +1,4 @@
-# coding_challenges
-This repository contains solutions to coding challenges from websites like LeetCode, Coderbyte, etc.
+# Coding Challenges
+
+**This repository contains solutions to online coding challenges from various websites. The coding problems solved so far are as follow:**
+- [x] 
