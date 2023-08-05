@@ -1,3 +1,9 @@
+# Default Arguments
+
+Source: *HackerRank*
+
+Level: *Medium*
+
 Debug the given function `print_from_stream` using the default value of one of its arguments.
 
 The function has the following signature:
