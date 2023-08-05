@@ -9,5 +9,4 @@
 - [x] The Minion Game: *Medium* level challenge from [HackerRank](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
 - [x] Default Arguments: *Medium* level challenge from [HackerRank](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)
 - [x] Maximize It!: *Hard* level challenge from [HackerRank](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true)
-- [x] 
-- [x] 
+- [x] Matrix Script: *Hard* level challenge from [HackerRank](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true)
