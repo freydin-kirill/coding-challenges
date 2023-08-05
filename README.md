@@ -5,6 +5,9 @@
 - [x] Bracket Matcher: *Medium* level challenge from [Coderbyte](https://coderbyte.com/information/Bracket%20Matcher)
 - [x] Min Window Substring: *Medium* level challenge from [Coderbyte](https://coderbyte.com/information/Min%20Window%20Substring)
 - [x] Bracket Combinations: *Hard* level challenge from [Coderbyte](https://coderbyte.com/information/Bracket%20Combinations)
-- [x]
-- [x]
-- [x]
+- [x] Seating Students: *Hard* level challenge from Coderbyte
+- [x] The Minion Game: *Medium* level challenge from [HackerRank](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
+- [x] 
+- [x] 
+- [x] 
+- [x] 

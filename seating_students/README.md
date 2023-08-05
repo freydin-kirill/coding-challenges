@@ -13,12 +13,10 @@ and the rest of the integers in the array will be in sorted order and will repre
  This means 1 student is on the left and 1 student on the right, or 1 student is directly above or below the other student.
  
  For example: if arr is [12, 2, 6, 7, 11] then there are a total of 6 ways to seat 2 new students next to each other. The combinations are: [1, 3], [3, 4], [3, 5], [8, 10], [9, 10], [10, 12]. So for this input your program should return 6. K will range from 2 to 24 and will always be an even number. After K, the number of occupied desks in the array can range from 0 to K. 
+
 Sample Test Cases
 Input:6, 4
-
 Output:4
 
-
 Input:8, 1, 8
-
 Output:6
