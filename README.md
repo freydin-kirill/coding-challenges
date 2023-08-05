@@ -13,5 +13,6 @@
 - [x] Longest Substring Without Repeating Characters: *Medium* level challenge from [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] Add Two Numbers: *Medium* level challenge from [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] Longest Palindromic Substring: *Medium* level challenge from [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/)
+- [x] Median of Two Sorted Arrays: *Hard* level challenge from [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 
