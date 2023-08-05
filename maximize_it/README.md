@@ -8,7 +8,7 @@ You are given a function $f(x) = x^2$ . You are also given `K` lists. The $i^{th
 
 You have to pick one element from each list so that the value from the equation below is maximized:
 
-$$`S = (f(X_1) + f(X_2) + ... +f(X_k)) \mod M`$$
+$$S = (f(X_1) + f(X_2) + ... +f(X_k)) \mod M$$
 
 Note that you need to take exactly one element from each list, not necessarily the largest element. You add the squares of the chosen elements and perform the modulo operation. The maximum value that you can obtain, will be the answer to the problem.
 
