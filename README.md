@@ -11,5 +11,6 @@
 - [x] Maximize It!: *Hard* level challenge from [HackerRank](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true)
 - [x] Matrix Script: *Hard* level challenge from [HackerRank](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true)
 - [x] Longest Substring Without Repeating Characters: *Medium* level challenge from [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [x] Add Two Numbers: *Medium* level challenge from [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 
